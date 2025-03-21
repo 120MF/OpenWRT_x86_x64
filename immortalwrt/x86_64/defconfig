@@ -469,6 +469,7 @@ CONFIG_PACKAGE_luci-proto-autoip=y
 CONFIG_PACKAGE_luci-proto-mbim=y
 CONFIG_PACKAGE_luci-proto-modemmanager=y
 CONFIG_PACKAGE_luci-proto-qmi=y
+CONFIG_PACKAGE_luci-proto-fm350=y
 CONFIG_PACKAGE_luci-proto-quectel=y
 CONFIG_PACKAGE_luci-proto-unet=y
 CONFIG_PACKAGE_luci-proto-vpnc=y
